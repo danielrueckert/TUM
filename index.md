@@ -1,9 +1,9 @@
 ## Curriculum Vitae
 
-Daniel Rueckert, FREng, FMedSci, FIEEE, FMICCAI 
-Alexander von Humboldt Professor
-Chair for AI in Medicine
-Faculty of Medicine and Informatics
+Daniel Rueckert, FREng, FMedSci, FIEEE, FMICCAI  
+Alexander von Humboldt Professor  
+Chair for AI in Medicine  
+Faculty of Medicine and Informatics  
 Technische Universität München  
 
 ### Date of Birth	
@@ -20,9 +20,8 @@ Phone: +49 89 41408587
 
 ### Education
 
-|  | 
---- | ---
 1994 – 1997 | Ph.D., Department of Computing, Imperial College London
+--- | ---
 1988 – 1993 | MS.c., Technische Universität Berlin
 
 
@@ -78,7 +77,7 @@ Elected Fellow of the International Academy of Medical & Biological Engineering 
 Alexander von Humboldt Professorship for Artificial Intelligence (2020)   
 ERC Synergy Grant (2013), ERC Advanced Grant (2020)  
 
-### Selected recent publications ([Google scholar](https://scholar.google.co.uk/citations?user=H0O0WnQAAAAJ&hl=en), [DLBP](https://dblp.uni-trier.de/pid/69/2478.html)
+### Selected recent publications ([Google scholar](https://scholar.google.co.uk/citations?user=H0O0WnQAAAAJ&hl=en), [DLBP](https://dblp.uni-trier.de/pid/69/2478.html))
 
 1.	J. Schlemper, J. Caballero, J. V. Hajnal, A. N. Price and D. Rueckert. A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction. IEEE Transactions on Medical Imaging, 37(2): 491-503, 2018.
 2.	O. Oktay, E. Ferrante, K. Kamnitsas, M. Heinrich, W. Bai, J. Caballero, S. Cook, A. de Marvao, T. Dawes, D. O'Regan, B. Kainz, B. Glocker and D. Rueckert. Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation. IEEE Transactions on Medical Imaging, 37(2):384-395, 2018.
