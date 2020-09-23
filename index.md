@@ -18,7 +18,7 @@ Phone: +49 89 41408587
 
 ### Education
 
-| Column 2 | Column 3
+|  | 
 --- | ---
 1994 – 1997 | Ph.D., Department of Computing, Imperial College London
 1988 – 1993 | MS.c., Technische Universität Berlin
@@ -66,15 +66,15 @@ Division of Radiological Sciences and Medical Engineering, King’s College Lond
 
 ### Awards
 
-Elected Fellow of the British Computer Society (2010)
-Elected Member of the Board of Directors of the MICCAI Society (2011 – 2015)
-Elected Fellow of the MICCAI Society (2014)
-Elected Fellow of the Royal Academy of Engineering (2015)
-Elected Fellow of the IEEE (2015)
-Elected Fellow of the Academy of Medical Sciences (2019)
-Elected Fellow of the International Academy of Medical & Biological Engineering (2020) 
-Alexander von Humboldt Professorship for Artificial Intelligence (2020)
-ERC Synergy Grant (2013), ERC Advanced Grant (2020)
+Elected Fellow of the British Computer Society (2010)  
+Elected Member of the Board of Directors of the MICCAI Society (2011 – 2015)  
+Elected Fellow of the MICCAI Society (2014)  
+Elected Fellow of the Royal Academy of Engineering (2015)  
+Elected Fellow of the IEEE (2015)  
+Elected Fellow of the Academy of Medical Sciences (2019)  
+Elected Fellow of the International Academy of Medical & Biological Engineering (2020)   
+Alexander von Humboldt Professorship for Artificial Intelligence (2020)   
+ERC Synergy Grant (2013), ERC Advanced Grant (2020)  
 
 ### Selected recent publications [Google scholar](https://scholar.google.co.uk/citations?user=H0O0WnQAAAAJ&hl=en)
 
