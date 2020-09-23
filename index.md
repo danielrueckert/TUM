@@ -24,7 +24,7 @@ Phone: +49 89 41408587
 | 1988 – 1993 | MS.c., Technische Universität Berlin |
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+|-------------|------------------|------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
