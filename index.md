@@ -12,13 +12,11 @@ Einsteinstraße 25
 ### Date of Birth	
 27th January 1969, Berlin, Germany
 
-E-mail Address	
-daniel.rueckert@tum.de
+### Contact details 
+E-mail: daniel.rueckert@tum.de
+Phone: +49 89 41408587
 
-Daytime Phone Number	
-+49 89 41408587
-
-Higher Education:
+### Education:
 
 Promotion
 
@@ -71,7 +69,7 @@ Department of Computing, Imperial College London
 Division of Radiological Sciences and Medical Engineering, King’s College London
 
 
-Awards
+### Awards
 
 Elected Fellow of the British Computer Society (2010)
 Elected Member of the Board of Directors of the MICCAI Society (2011 – 2015)
@@ -83,7 +81,7 @@ Elected Fellow of the International Academy of Medical & Biological Engineering 
 Alexander von Humboldt Professorship for Artificial Intelligence (2020)
 ERC Synergy Grant (2013), ERC Advanced Grant (2020)
 
-Selected recent publications (Google scholar: 48000+ citations, h-index: 99)
+### Selected recent publications [Google scholar](https://scholar.google.co.uk/citations?user=H0O0WnQAAAAJ&hl=en)
 
 1.	J. Schlemper, J. Caballero, J. V. Hajnal, A. N. Price and D. Rueckert. A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction. IEEE Transactions on Medical Imaging, 37(2): 491-503, 2018.
 2.	O. Oktay, E. Ferrante, K. Kamnitsas, M. Heinrich, W. Bai, J. Caballero, S. Cook, A. de Marvao, T. Dawes, D. O'Regan, B. Kainz, B. Glocker and D. Rueckert. Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation. IEEE Transactions on Medical Imaging, 37(2):384-395, 2018.
