@@ -20,9 +20,8 @@ Phone: +49 89 41408587
 
 ### Education
 
-1994 – 1997 | Ph.D., Department of Computing, Imperial College London
---- | ---
-1988 – 1993 | MS.c., Technische Universität Berlin
+| 1994 – 1997 | Ph.D., Department of Computing, Imperial College London |
+| 1988 – 1993 | MS.c., Technische Universität Berlin |
 
 
 ### Appointments
