@@ -15,7 +15,7 @@ TranslaTUM (Building 522)
 Einsteinstraße 25 
 81675 München, Germany 
 
-E-mail: daniel.rueckert@tum.de  
+E-mail: <daniel.rueckert@tum.de>  
 Phone: +49 89 41408587
 
 ### Education
