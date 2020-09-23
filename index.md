@@ -13,23 +13,18 @@ Einsteinstraße 25
 27th January 1969, Berlin, Germany
 
 ### Contact details 
-E-mail: daniel.rueckert@tum.de
+E-mail: daniel.rueckert@tum.de  
 Phone: +49 89 41408587
 
-### Education:
+### Education
 
-Promotion
-
-Diplom (Informatik)	
-1994 – 1997
-
-1988 – 1993  	
-Ph.D., Department of Computing, Imperial College London
-
-MS.c., Technische Universität Berlin
+| Column 2 | Column 3
+--- | ---
+1994 – 1997 | Ph.D., Department of Computing, Imperial College London
+1988 – 1993 | MS.c., Technische Universität Berlin
 
 
-Appointments:
+### Appointments
 
 Alexander von Humboldt Professor
 
