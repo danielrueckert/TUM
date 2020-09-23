@@ -1,4 +1,4 @@
-##Curriculum Vitae
+## Curriculum Vitae
 
 Daniel Rueckert, FREng, FMedSci, FIEEE, FMICCAI
 Alexander von Humboldt Professor
@@ -9,7 +9,7 @@ TranslaTUM (Building 522)
 Einsteinstraße 25
 81675 München, Germany
 
-###Date of Birth	
+### Date of Birth	
 27th January 1969, Berlin, Germany
 
 E-mail Address	
