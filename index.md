@@ -25,8 +25,6 @@ Phone: +49 89 41408587
 | 1994 – 1997 | Ph.D.  | Imperial College London       |
 | 1988 – 1993 | MS.c.  | Technische Universität Berlin |
 
-
-
 ### Appointments
 
 | Dates       | Position                         | Institution                    |
@@ -38,7 +36,6 @@ Phone: +49 89 41408587
 | 1999 - 2003 | Lecturer                         | Imperial College London        |
 | 1999 - 2003 | Lecturer                         | Imperial College London        |
 | 1997 - 1999 | Post-doctoral Research Fellow	   | King’s College London          |
-
 
 ### Awards
 
@@ -55,8 +52,11 @@ ERC Synergy Grant (2013), ERC Advanced Grant (2020)
 ### Selected recent publications ([Google scholar](https://scholar.google.co.uk/citations?user=H0O0WnQAAAAJ&hl=en), [DLBP](https://dblp.uni-trier.de/pid/69/2478.html))
 
 1.	J. Schlemper, J. Caballero, J. V. Hajnal, A. N. Price and D. Rueckert. A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction. IEEE Transactions on Medical Imaging, 37(2): 491-503, 2018.
+
 2.	O. Oktay, E. Ferrante, K. Kamnitsas, M. Heinrich, W. Bai, J. Caballero, S. Cook, A. de Marvao, T. Dawes, D. O'Regan, B. Kainz, B. Glocker and D. Rueckert. Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation. IEEE Transactions on Medical Imaging, 37(2):384-395, 2018.
+
 3.	W. Bai, M. Sinclair, G. Tarroni, O. Oktay, M. Rajchl, G. Vaillant, A. M. Lee, N. Aung, E. Lukaschuk, M. M. Sanghvi, F. Zemrak, K. Fung, J. M. Paiva, V. Carapella, Y. J. Kim, H. Suzuki, B. Kainz, P. M. Matthews, S. E. Petersen, S. K. Piechnik, S. Neubauer, B. Glocker and D. Rueckert. Automated cardiovascular magnetic resonance image analysis with fully convolutional networks. Journal of Cardiovascular Magnetic Resonance. 20(65), 2018.
+
 4.	S. Parisot, S. I. Ktena, E. Ferrante, M. Lee, R. Guerrero, B. Glocker and D. Rueckert. Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease. Medical Image Analysis, 48:117-130, 2018.
 
 5.	G. A. Bello, T. J. W. Dawes, J. Duan, C. Biffi. A. de Marvao, L. S. G. E. Howard, J. S. R. Gibbs, M. R. Wilkins, S. A. Cook, D. Rueckert and D. P. O'Regan. Deep learning cardiac motion analysis for human survival prediction. Nature Machine Intelligence. 1:95-104, 2019. 
