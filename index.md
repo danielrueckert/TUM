@@ -20,55 +20,24 @@ Phone: +49 89 41408587
 
 ### Education
 
-|             |                  |
-|-------------|------------------|
-| 1994 – 1997 | Ph.D., Imperial College London |
-| 1988 – 1993 | MS.c., Technische Universität Berlin |
+| Dates       | Degree | Institution                   |
+|-------------|--------|-------------------------------|
+| 1994 – 1997 | Ph.D.  | Imperial College London       |
+| 1988 – 1993 | MS.c.  | Technische Universität Berlin |
 
 
 
 ### Appointments
 
-|             |                                  |                                |
+| Dates       | Position                         | Institution                    |
 |-------------|----------------------------------|--------------------------------|
 | Since 2020  | Alexander von Humboldt Professor | Technische Universität München |
-
-Alexander von Humboldt Professor
-
-Head of Department
-
-Professor
-
-Senior Lecturer
-
-Lecturer
-
-Post-doctoral
-Research Fellow	
-Since 2020
-
-
-2016 – 2020 
-
-Since 2005
-
-2003 – 2005
-
-1999 – 2003
-
-1997 – 1999 	
-Klinikum rechts der Isar, Technical University Munich
-
-
-Department of Computing, Imperial College London
-
-Department of Computing, Imperial College London 
-
-Department of Computing, Imperial College London
-
-Department of Computing, Imperial College London
-
-Division of Radiological Sciences and Medical Engineering, King’s College London
+| 2016 - 2020 | Head, Department of Computing    | Imperial College London        |
+| Since 2005  | Professor                        | Imperial College London        |
+| 2003 - 2005 | Senior Lecturer                  | Imperial College London        |
+| 1999 - 2003 | Lecturer                         | Imperial College London        |
+| 1999 - 2003 | Lecturer                         | Imperial College London        |
+| 1997 - 1999 | Post-doctoral Research Fellow	   | King’s College London          |
 
 
 ### Awards
