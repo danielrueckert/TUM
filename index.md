@@ -20,7 +20,7 @@ Phone: +49 89 41408587
 
 ### Education
 
-|Dates        |Institution       |
+|             |                  |
 |-------------|------------------|
 | 1994 – 1997 | Ph.D., Imperial College London |
 | 1988 – 1993 | MS.c., Technische Universität Berlin |
@@ -28,6 +28,10 @@ Phone: +49 89 41408587
 
 
 ### Appointments
+
+|             |                                  |                                |
+|-------------|----------------------------------|--------------------------------|
+| Since 2020  | Alexander von Humboldt Professor | Technische Universität München |
 
 Alexander von Humboldt Professor
 
